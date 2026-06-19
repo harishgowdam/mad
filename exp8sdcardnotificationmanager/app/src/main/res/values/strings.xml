@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exp-8 sd card- notificationmanager</string>
+    <string name="notification_channel_id">sd_card_channel</string>
+    <string name="notification_channel_name">SD Card Notifications</string>
+</resources>

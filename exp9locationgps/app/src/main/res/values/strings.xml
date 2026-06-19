@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Location GPS</string>
+    <string name="gps_tracking">GPS Tracking</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="current_location">Current Location: Not available</string>
+    <string name="latitude">Latitude: --</string>
+    <string name="longitude">Longitude: --</string>
+
+    <string name="geofencing">Geofencing</string>
+    <string name="add_home_geofence">Add Home Geofence</string>
+    <string name="remove_geofence">Remove Geofence</string>
+    <string name="geofence_status">Geofence Status: None</string>
+
+    <string name="activity_recognition">Activity Recognition</string>
+    <string name="start_activity_detection">Start Detection</string>
+    <string name="stop_activity_detection">Stop Detection</string>
+    <string name="current_activity">Current Activity: Unknown</string>
+
+    <string name="permission_required">Permission Required</string>
+    <string name="location_permission_message">Location permission is needed for GPS tracking and geofencing.</string>
+    <string name="activity_permission_message">Activity recognition permission is needed.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="geofence_added">Home geofence added (500m radius)</string>
+    <string name="geofence_removed">Geofence removed</string>
+    <string name="geofence_entered">Entered home area!</string>
+    <string name="geofence_exited">Left home area!</string>
+    <string name="geofence_dwell">Dwelling at home!</string>
+</resources>
